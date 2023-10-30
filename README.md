@@ -1,4 +1,4 @@
-# Modul Praktikum 5
+# Modul Praktikum 5-Teknik Heuristic Search
 ## Alfan Maulana
 ## 5311421011
 ## Teknik Elektro
